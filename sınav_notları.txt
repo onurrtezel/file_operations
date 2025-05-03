@@ -1,0 +1,5 @@
+Onur Tezel:86,79,96
+Yusuf Aygün:86,25,78
+Mustafa Çil:65,100,24
+Hakan Yılmaz:25,12,65
+Sıla Çolakoğlu:99,96,91
